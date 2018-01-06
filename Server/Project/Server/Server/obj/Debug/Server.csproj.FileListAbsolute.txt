@@ -1,0 +1,7 @@
+C:\AgeOfAntipathy\Server\Project\Server\Server\bin\Debug\Server.exe.config
+C:\AgeOfAntipathy\Server\Project\Server\Server\bin\Debug\Server.exe
+C:\AgeOfAntipathy\Server\Project\Server\Server\bin\Debug\Server.pdb
+C:\AgeOfAntipathy\Server\Project\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\AgeOfAntipathy\Server\Project\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\AgeOfAntipathy\Server\Project\Server\Server\obj\Debug\Server.exe
+C:\AgeOfAntipathy\Server\Project\Server\Server\obj\Debug\Server.pdb

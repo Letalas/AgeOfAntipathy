@@ -10,6 +10,9 @@ namespace Server
     {
         static void Main(string[] args)
         {
+            TCPHandler.InitializeTCPHandler();
+            TCP.SetupServer();
+            Console.ReadLine();
         }
     }
 }
